@@ -1,7 +1,7 @@
 <h1>HTML Forms</h1>
 <form method="GET">
     <p><label for="input">User input</label>
-        <input type="text" name="other" size="40">
+        <input type="text" name="other" size="40"/>
     </p>
-    <input type="submit">
+    <input type="submit"/>
 </form>
